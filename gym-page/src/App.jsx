@@ -1,4 +1,4 @@
-import bgImg from "./assets/3d-gym-equipment.png"
+import bgImg from "./assets/heroimg.svg"
 import Heading from "./components/Heading"
 import NabBar from "./components/NabBar"
 import Seperators from "./components/Seperators"

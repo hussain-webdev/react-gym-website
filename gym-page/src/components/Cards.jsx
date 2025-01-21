@@ -10,23 +10,23 @@ const Cards = (props) => {
                 <ul>
                     <li>
                         <span>Cardio</span>
-                        <span><img src={props.tick} /></span>
+                        <span><img src={props.tick} alt='tick'/></span>
                     </li>
                     <li>
                         <span>Swimming Pool</span>
-                        <span><img src={props.tick} /></span>
+                        <span><img src={props.tick} alt='tick'/></span>
                     </li>
                     <li>
                         <span>Jacuzzi</span>
-                        <span><img src={props.tick} /></span>
+                        <span><img src={props.tick} alt='tick'/></span>
                     </li>
                     <li>
                         <span>Personal Locker</span>
-                        <span><img src={props.cross} /></span>
+                        <span><img src={props.cross} alt='cross'/></span>
                     </li>
                     <li>
                         <span>Protein Bars</span>
-                        <span><img src={props.cross} /></span>
+                        <span><img src={props.cross} alt='cross'/></span>
                     </li>
                 </ul>
             </div>

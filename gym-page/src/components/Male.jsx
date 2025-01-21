@@ -6,7 +6,7 @@ const Male = (props) => {
       <div className="section1" id='about'>
         <div className='trainer'>
           <div className="img-cont1">
-            <img src={props.img} alt="" />
+            <img src={props.img} alt="stack fitness trainer" />
           </div>
           <div className="desc1">
             <h1>{props.name}</h1>

@@ -20,9 +20,9 @@ const Footer = () => {
             </div>
           </div>
           <div className="logos">
-            <div><img src={insta} alt="" /></div>
-            <div><img src={face} alt="" /></div>
-            <div><img src={twit} alt="" /></div>
+            <div><img src={insta} alt="instagram" /></div>
+            <div><img src={face} alt="facebook" /></div>
+            <div><img src={twit} alt="twitter" /></div>
           </div>
         </div>
         <div className="verhr"></div>

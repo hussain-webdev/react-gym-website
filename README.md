@@ -46,7 +46,7 @@ Make sure you have the following installed:
 
 4. Open the browser and go to:
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ## Project Structure
@@ -68,7 +68,7 @@ Make sure you have the following installed:
 ```
 
 ## Available Scripts
-- `npm start` - Runs the app in development mode
+- `npm run dev` - Runs the app in development mode
 - `npm run build` - Builds the app for production
 - `npm test` - Runs tests (if implemented)
 

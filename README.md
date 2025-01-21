@@ -89,5 +89,5 @@ This project is licensed under the MIT License.
 ## Contact
 For any inquiries or support, contact us at:
 - Email: hussain.webdev7@gmail.com
-- Website: [www.stackfitness.vercel.app]([https://stackfitness.vercel.app])
+- Website: [www.stackfitness.vercel.app](https://stackfitness.vercel.app/)
 

@@ -1,4 +1,4 @@
-import bgImg from "./assets/heroimg.svg"
+import bgImg from "./assets/2rw0sNj34zYy9M22orIuxxZdk4L.svg"
 import Heading from "./components/Heading"
 import NabBar from "./components/NabBar"
 import Seperators from "./components/Seperators"
